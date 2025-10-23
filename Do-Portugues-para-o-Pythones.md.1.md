@@ -39,11 +39,7 @@ Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. M
 Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:
 
 Classe Carro --> o modelo com as instruções de “fabricação”.
-1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo
-    
-
-  
-  
+1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo.
 
 2. Defina uma função para simular o movimento do carro para frente (“andar”)
 
@@ -91,6 +87,6 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTUxMDAzMiwtMzAwMTczMzM1LC0xMz
-Y5MzAzNzA0XX0=
+eyJoaXN0b3J5IjpbNTY0ODk2ODI4LC0zMDAxNzMzMzUsLTEzNj
+kzMDM3MDRdfQ==
 -->
