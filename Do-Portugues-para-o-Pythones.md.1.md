@@ -36,7 +36,7 @@ Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. M
 
 ## Definição das características (propriedades) e funções de um carro
 
-Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:iiiiiii
+Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:
 
 Classe Carro --> o modelo com as instruções de “fabricação”.
 1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo.
@@ -87,6 +87,6 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwNjE2NzUsNTY0ODk2ODI4LC0zMD
-AxNzMzMzUsLTEzNjkzMDM3MDRdfQ==
+eyJoaXN0b3J5IjpbNTY0ODk2ODI4LDU2NDg5NjgyOCwtMzAwMT
+czMzM1LC0xMzY5MzAzNzA0XX0=
 -->
