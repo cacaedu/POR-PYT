@@ -34,7 +34,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado a direita. Para fazer isso, delete o conteúdo de uma das duas abas disponibNão é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket).
+Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado a direita. Para fazer isso, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função e a sua chamada)Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket).
 
 Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas ou determinadas? Onde foi escrito esse retorno "Estou acelerando agora"? Em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
@@ -91,8 +91,8 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjMzMDEsMTU4ODA1MzM1NywtMTM5OD
-YxNDIwLC04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2NTYs
-Nzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMDE3Mz
-MzNSwtMTM2OTMwMzcwNF19
+eyJoaXN0b3J5IjpbODMxNzkyNTc2LDE1ODgwNTMzNTcsLTEzOT
+g2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2
+LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNz
+MzMzUsLTEzNjkzMDM3MDRdfQ==
 -->
