@@ -1,6 +1,6 @@
 
 ## Do Português para o Pythonês* <br><br> <sup ><sup>*neologismo do autor</sup></sup>
-Aprender uma linguagem de programação, seja ela qual for, é quase sempre intimidante e desafiador. Isso é natural e perfeitamente normal diante de algo novo para a nossa cultura e para o nosso cérebro.
+Aprender uma linguagem de programação, seja ela qual for, é quase sempre, intimidante e desafiador. Isso é natural e perfeitamente normal diante de algo novo para a nossa cultura e para o nosso cérebro.
 
 Quando nos deparamos com algo que não conhecemos, a dúvida, a incerteza e o medo do desconhecido podem bloquear oportunidades de aprendizagem relevantes. É o caso de aprender uma nova linguagem, especialmente uma linguagem de programação que, além do núcleo comum de qualquer linguagem – símbolos, léxico, sintaxe e semântica – tem um paradigma claro de lógica formal que deve ser aprendido.
 
@@ -87,6 +87,6 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0ODk2ODI4LDU2NDg5NjgyOCwtMzAwMT
-czMzM1LC0xMzY5MzAzNzA0XX0=
+eyJoaXN0b3J5IjpbNzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OT
+Y4MjgsLTMwMDE3MzMzNSwtMTM2OTMwMzcwNF19
 -->
