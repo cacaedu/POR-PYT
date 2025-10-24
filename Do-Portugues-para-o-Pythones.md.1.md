@@ -21,9 +21,9 @@ Print é uma função (print()) embutida ou incorporada ao Python que nos mostra
 
 Desse modo, print(carro.acelerar()) mostrará o texto “Estou acelerando agora” sem as aspas. Veja o código (do Português ao Pythonês) abaixo.
 
-Português: Acelere o carro e mostre que ele está acelerando
+<u>Português</u>: Acelere o carro e mostre que ele está acelerando
 
-Pythonês: 
+<u>Pythonês: 
 Acelere é uma ação, portanto deve ser representada por uma função. Funções devem iniciar com a palavra-chave def (de definition). Isso diz ao Python que o que vem a seguir é uma função, desde que tenha os parênteses no final. Então, criaremos a função acelerar primeiro e, na sequência, a chamaremos dentro da função print.
 ```
 def acelerar():
@@ -94,9 +94,9 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDk0NzM2LC0xNjQwMDY5NDY1LC0xMj
-EyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcsLTEzOTg2
-MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2LD
-c4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNzMz
-MzUsLTEzNjkzMDM3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ4NDk0NjAsODQ0NDk0NzM2LC0xNj
+QwMDY5NDY1LC0xMjEyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgw
+NTMzNTcsLTEzOTg2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OC
+wxNDE1MDM1NjU2LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2
+ODI4LC0zMDAxNzMzMzUsLTEzNjkzMDM3MDRdfQ==
 -->
