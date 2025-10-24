@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado à direita. Para fazer isso, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
+Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado à direita. Vamos colocar o nosso código em um ambiente de programação Python mais, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,10 +94,10 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MjYzNTMzLDE5MDYzMDMzNDIsLTMxND
-A3NTcxOCw4OTM3MzIxNDQsODQ0NDk0NzM2LC0xNjQwMDY5NDY1
-LC0xMjEyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcsLT
-EzOTg2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1
-NjU2LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMD
-AxNzMzMzUsLTEzNjkzMDM3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjM2OTMyMCwxOTA2MzAzMzQyLC0zMT
+QwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2
+NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OSwxNTg4MDUzMzU3LC
+0xMzk4NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAz
+NTY1Niw3ODk5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwtMz
+AwMTczMzM1LC0xMzY5MzAzNzA0XX0=
 -->
