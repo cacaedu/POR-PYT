@@ -24,13 +24,13 @@ Desse modo, print(carro.acelerar()) mostrará o texto “Estou acelerando agora�
 <u>Português</u>: Acelere o carro e mostre que ele está acelerando.
 
 <u>Pythonês:</u> 
-Acelere é uma ação, portanto deve ser representada por uma função. Funções devem iniciar com a palavra-chave def (de definition). Isso diz ao Python que o que vem a seguir é uma função, desde que tenha os parênteses no final. Então, criaremos a função acelerar primeiro e, na sequência, a chamaremos dentro da função print para que .
-```
-def acelerar():
-	return "Estou acelerando agora"
-	
-print(acelerar())
-```
+Acelere é uma ação, portanto deve ser representada por uma função. Funções devem iniciar com a palavra-chave def (de definition). Isso diz ao Python que o que vem a seguir é uma função, desde que tenha os parênteses no final. Então, criaremos a função acelerar primeiro e, na sequência, a chamaremos dentro da função print para que seu retorno seja mostrado na tela.
+
+    def acelerar():
+    	return "Estou acelerando agora"
+    	
+    print(acelerar())
+
 Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, depois deles, haverá um bloco (o bloco da função) que deve ser indentado (tabulado) com alguns espaços - normalmente quatro - para delimitar o bloco (tudo que estiver indentado fará parte do bloco)
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
@@ -94,7 +94,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTE4Mzk3NSwtMzE0MDc1NzE4LDg5Mz
+eyJoaXN0b3J5IjpbMTkwNjMwMzM0MiwtMzE0MDc1NzE4LDg5Mz
 czMjE0NCw4NDQ0OTQ3MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgx
 MTksLTEwMTk3MjcxODksMTU4ODA1MzM1NywtMTM5ODYxNDIwLC
 04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OTYx
