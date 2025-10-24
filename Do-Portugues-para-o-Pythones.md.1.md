@@ -32,7 +32,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Copie e cole este código neste editor Python e, em seguida, clique no botão play para
+Copie e cole este código neste editor Python e, em seguida, clique no botão play para ver o resultado.
 
 Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas ou determinadas? Onde foi escrito esse retorno "Estou acelerando agora"? Em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
@@ -89,7 +89,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODM4MjgwNiwtMTM5ODYxNDIwLC04MD
+eyJoaXN0b3J5IjpbMTU4ODA1MzM1NywtMTM5ODYxNDIwLC04MD
 k1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OTYxMjI2
 LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMDE3MzMzNSwtMTM2OT
 MwMzcwNF19
