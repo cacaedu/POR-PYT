@@ -6,7 +6,7 @@ Quando nos deparamos com algo que não conhecemos, a dúvida, a incerteza e o me
 
 Deixando o medo e as incertezas de lado, vamos tentar uma estratégia que pode ser interessante, de algum modo prazerosa e, até, divertida, para aprender uma linguagem de programação: vamos escrever os nossos "códigos" em linguagem natural (um idioma, no nosso caso o Português) e transformá-la em uma linguagem de programação com suas estruturas de dados, lógica etc. A linguagem de programação escolhida é Python. Essa linguagem é tida, por muitos, como a mais simples e de sintaxe mais limpa para o aprendizado de programação. Vamos começar?    
 
-Python é uma linguagem orientada a objetos. Mas o que isso significa? Pense em um objeto. Por exemplo, um carro. Um carro é um objeto que pode exercer ações (funções) e que tem características próprias (propriedades), certo? Vamos listar algumas ações e características/propriedades que um carro pode ter na tabela a seguir.
+Python é uma linguagem orientada a objetos. Mas o que isso significa? Pense em um objeto. Por exemplo, um carro. Um carro é um objeto que pode exercer ações (funções) e que tem características próprias (propriedades), certo? Vamos listar algumas ações;. e características/propriedades que um carro pode ter na tabela a seguir.
 
   |Ações|Propriedades|                       
   |:--------------|--------------|
@@ -87,7 +87,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTAzNTY1Niw3ODk5NjEyMjYsNTY0OD
-k2ODI4LDU2NDg5NjgyOCwtMzAwMTczMzM1LC0xMzY5MzAzNzA0
-XX0=
+eyJoaXN0b3J5IjpbLTE2MjY2MDcxNDEsMTQxNTAzNTY1Niw3OD
+k5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwtMzAwMTczMzM1
+LC0xMzY5MzAzNzA0XX0=
 -->
