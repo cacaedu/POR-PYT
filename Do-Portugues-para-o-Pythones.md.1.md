@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Vamos colocar o nosso código [neste ambiente de programação Python](https://trinket.io/) mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, copie e cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
+Vamos colocar o nosso código [neste ambiente de programação Python](https://trinket.io/) mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado nesse espaço à direita do editor e que é conhecido por console.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,10 +94,10 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDg5MDg5MiwxOTA2MzAzMzQyLC0zMT
-QwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2
-NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OSwxNTg4MDUzMzU3LC
-0xMzk4NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAz
-NTY1Niw3ODk5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwtMz
-AwMTczMzM1LC0xMzY5MzAzNzA0XX0=
+eyJoaXN0b3J5IjpbLTIwMjI0MTg5ODcsMTkwNjMwMzM0MiwtMz
+E0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3MzYsLTE2NDAwNjk0
+NjUsLTEyMTIzMzgxMTksLTEwMTk3MjcxODksMTU4ODA1MzM1Ny
+wtMTM5ODYxNDIwLC04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUw
+MzU2NTYsNzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLT
+MwMDE3MzMzNSwtMTM2OTMwMzcwNF19
 -->
