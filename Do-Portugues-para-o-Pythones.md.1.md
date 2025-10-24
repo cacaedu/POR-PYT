@@ -30,7 +30,7 @@ def acelerar():
 	
 print(acelerar())
 ```
-Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, depois deles, haverá um bloco (o bloco da função) que deve ser indentado (tabulado) com alguns espaço, normalmente , para delimitar o bloco (tudo que estiver indentado faz parte do bloco)
+Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, depois deles, haverá um bloco (o bloco da função) que deve ser indentado (tabulado) com alguns espaços - normalmente quatro - para delimitar o bloco (tudo que estiver indentado fará parte do bloco)
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
@@ -91,7 +91,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMzgxNjY1LDE1ODgwNTMzNTcsLTEzOT
+eyJoaXN0b3J5IjpbMzcwMzM0ODIxLDE1ODgwNTMzNTcsLTEzOT
 g2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2
 LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNz
 MzMzUsLTEzNjkzMDM3MDRdfQ==
