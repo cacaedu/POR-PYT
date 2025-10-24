@@ -15,7 +15,7 @@ Python é uma linguagem orientada a objetos. Mas o que isso significa? Pense em 
   |Dar ré     |Marca      | 
   |Virar|  Ano de fabricação|
 
-Então, de acordo com a tabela acima, podemos dizer que o objeto carro tem uma função chamada acelerar. Como dizemos isso em Pythonês? Assim: carro.acelerar(). Estranho? Escrevendo desse modo, estamos chamando a função acelerar() - as funções têm parênteses – do objeto carro através do ponto (.). Em Pythonês, pense no ponto como "acessar algo do objeto". Ou seja, estamos dizendo ao Pyhton "Ei, eu quero acessar/usar a função acessar() do objeto carro. Quando fazemos isso, o código que escrevemos nos retorna o que essa função quer retornar ou nos mostrar como resultado. Como sabemos o que ela quer retornar? Bem, com o carro real, o retorno seria ele se mover mais rapidamente, não é isso? Vamos, então, simular o “se mover mais rapidamente” com um texto que precisa, além de ser retornado, mostrado de algum modo, ou seja, precisamos ver esse retorno na forma de texto. Fazemos isso com a função print() desse modo: print(carro.acelerar()). O que essa linha com uma função print() fará?
+Então, de acordo com a tabela acima, podemos dizer que o objeto carro tem uma função chamada acelerar. Como dizemos isso em Pythonês? Assim: carro.acelerar(). Estranho? Escrevendo desse modo, estamos chamando a função acelerar() - as funções têm parênteses – do objeto carro através do ponto (.). Em Pythonês, pense no ponto como "acessar algo do objeto". Ou seja, estamos dizendo ao Pyhton "Ei, eu quero acessar/usar a função acelerar() do objeto carro". Quando fazemos isso, o código que escrevemos nos retorna o que essa função quer retornar ou nos mostrar como resultado. Como sabemos o que ela quer retornar? Bem, com o carro real, o retorno seria ele se mover mais rapidamente, não é isso? Vamos, então, simular o “se mover mais rapidamente” com um texto que precisa, além de ser retornado, mostrado de algum modo, ou seja, precisamos ver esse retorno na forma de texto. Fazemos isso com a função print() desse modo: print(carro.acelerar()). O que essa linha com uma função print() fará?
 
 Print é uma função (print()) embutida ou incorporada ao Python que nos mostra (retorna) o que estiver dentro do parênteses (lembre-se que as funções têm parênteses. Esse é um modo de reconhecê-las e fazê-las funcionar). Então, print(carro.acelerar()) deve nos mostrar o retorno da função acelerar do objeto carro. Como vamos simular isso com um texto. Digamos que esse retorno seja “Estou acelerando agora”, indicando que a função está funcionando e deu o retorno esperado.
 
@@ -87,7 +87,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OT
-YxMjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMDE3MzMzNSwt
-MTM2OTMwMzcwNF19
+eyJoaXN0b3J5IjpbLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNT
+AzNTY1Niw3ODk5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwt
+MzAwMTczMzM1LC0xMzY5MzAzNzA0XX0=
 -->
