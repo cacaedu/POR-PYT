@@ -2,7 +2,7 @@
 ## Do Português para o Pythonês* <br><br> <sup ><sup>*neologismo do autor</sup></sup>
 Aprender uma linguagem de programação, seja ela qual for, é quase sempre, intimidante e desafiador. Isso é natural e perfeitamente normal diante de algo novo para a nossa cultura e para o nosso cérebro.
 
-Quando nos deparamos com algo que não conhecemos, a dúvida, a incerteza e o medo do desconhecido podem bloquear oportunidades de aprendizagem relevantes. É o caso de aprender uma nova linguagem, especialmente uma linguagem de programação que, além do núcleo comum de qualquer linguagem – símbolos, léxico, sintaxe e semântica – tem um paradigma claro de lógica formal que deve ser aprendido.
+Quando nos deparamos com algo que não conhecemos, a dúvida, a incerteza e o medo do desconhecido podem bloquear oportunidades de aprendizagem relevantes. É o caso de aprender uma nova linguagem, especialmente uma linguagem de programação que, além do núcleo comum de qualquer linguagem – símbolos, léxico, sintaxe e semântica –, tem um paradigma claro de lógica formal que deve ser aprendido.
 
 Deixando o medo e as incertezas de lado, vamos tentar uma estratégia que pode ser interessante, de algum modo prazerosa e, até, divertida, para aprender uma linguagem de programação: vamos escrever os nossos "códigos" em linguagem natural (um idioma, no nosso caso o Português) e transformá-la em uma linguagem de programação com suas estruturas de dados, lógica etc. A linguagem de programação escolhida é Python. Essa linguagem é tida, por muitos, como a mais simples e de sintaxe mais limpa para o aprendizado de programação. Vamos começar?    
 
@@ -87,6 +87,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OT
-Y4MjgsLTMwMDE3MzMzNSwtMTM2OTMwMzcwNF19
+eyJoaXN0b3J5IjpbMTQxNTAzNTY1Niw3ODk5NjEyMjYsNTY0OD
+k2ODI4LDU2NDg5NjgyOCwtMzAwMTczMzM1LC0xMzY5MzAzNzA0
+XX0=
 -->
