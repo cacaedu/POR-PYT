@@ -23,7 +23,7 @@ Desse modo, print(carro.acelerar()) mostrará o texto “Estou acelerando agora�
 
 Português: Acelere o carro e mostre que ele está acelerando
 Pythonês: 
-1. Acelere é uma ação, portanto deve ser representada por uma função. Funções devem iniciar com a palavra-chave def (de definition). Isso diz ao Python que o que vem a seguir é uma função, desde que tenha os parênteses no final. Então, criaremos a função acelerar primeiro.
+1. Acelere é uma ação, portanto deve ser representada por uma função. Funções devem iniciar com a palavra-chave def (de definition). Isso diz ao Python que o que vem a seguir é uma função, desde que tenha os parênteses no final. Então, criaremos a função acelerar primeiro e, na sequência, a chamaremos dentro da função print.
 ```
 def acelerar():
 	return "Estou acelerando agora"
@@ -91,8 +91,8 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MTc3MjA5LDE1ODgwNTMzNTcsLTEzOT
-g2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2
-LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNz
-MzMzUsLTEzNjkzMDM3MDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA5ODc5MjEsMTU4ODA1MzM1NywtMT
+M5ODYxNDIwLC04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2
+NTYsNzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMD
+E3MzMzNSwtMTM2OTMwMzcwNF19
 -->
