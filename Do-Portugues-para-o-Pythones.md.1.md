@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado a direita. Para fazer isso, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
+Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado à direita. Para fazer isso, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,10 +94,10 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjMwMzM0MiwtMzE0MDc1NzE4LDg5Mz
-czMjE0NCw4NDQ0OTQ3MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgx
-MTksLTEwMTk3MjcxODksMTU4ODA1MzM1NywtMTM5ODYxNDIwLC
-04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OTYx
-MjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMDE3MzMzNSwtMT
-M2OTMwMzcwNF19
+eyJoaXN0b3J5IjpbNDA1MjYzNTMzLDE5MDYzMDMzNDIsLTMxND
+A3NTcxOCw4OTM3MzIxNDQsODQ0NDk0NzM2LC0xNjQwMDY5NDY1
+LC0xMjEyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcsLT
+EzOTg2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1
+NjU2LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMD
+AxNzMzMzUsLTEzNjkzMDM3MDRdfQ==
 -->
