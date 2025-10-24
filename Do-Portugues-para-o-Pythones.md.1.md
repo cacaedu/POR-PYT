@@ -27,6 +27,8 @@ Pythonês:
 ```
 def acelerar():
 	return "Estou acelerando agora"
+	
+print(acelerar())
 ```
 Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, depois deles, haverá um bloco (o bloco da função) que deve ser indentado (tabulado) para delimitar o bloco (tudo que estiver indentado faz parte do bloco)
 
@@ -89,8 +91,8 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODA1MzM1NywtMTM5ODYxNDIwLC04MD
-k1NzE5NjMsMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OTYxMjI2
-LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLTMwMDE3MzMzNSwtMTM2OT
-MwMzcwNF19
+eyJoaXN0b3J5IjpbOTI2MTc3MjA5LDE1ODgwNTMzNTcsLTEzOT
+g2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2
+LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNz
+MzMzUsLTEzNjkzMDM3MDRdfQ==
 -->
