@@ -36,6 +36,8 @@ A palavra-chave ```return``` é a responsável por retornar/mostrar o que a fun�
 
 Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado a direita. Para fazer isso, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
 
+Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). 
+
 Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas ou determinadas? Onde foi escrito esse retorno "Estou acelerando agora"? Em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
 ## Definição das características (propriedades) e funções de um carro
@@ -91,8 +93,8 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDA1OTM4MywxNTg4MDUzMzU3LC0xMz
-k4NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAzNTY1
-Niw3ODk5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwtMzAwMT
-czMzM1LC0xMzY5MzAzNzA0XX0=
+eyJoaXN0b3J5IjpbLTM1MDgwOTU4LDE1ODgwNTMzNTcsLTEzOT
+g2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2
+LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2ODI4LC0zMDAxNz
+MzMzUsLTEzNjkzMDM3MDRdfQ==
 -->
