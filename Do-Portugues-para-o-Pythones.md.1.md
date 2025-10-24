@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Vamos colocar o nosso código [neste ambiente de programação Python](https://trinket.io/) mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado nesse espaço à direita do editor e que é conhecido por console.
+Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="noopener noreferrer">Seu Link</a>neste ambiente de programação Python](https://trinket.io/) mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado nesse espaço à direita do editor e que é conhecido por console.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,10 +94,10 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI0MTg5ODcsMTkwNjMwMzM0MiwtMz
-E0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3MzYsLTE2NDAwNjk0
-NjUsLTEyMTIzMzgxMTksLTEwMTk3MjcxODksMTU4ODA1MzM1Ny
-wtMTM5ODYxNDIwLC04MDk1NzE5NjMsMzc1OTc2NDY4LDE0MTUw
-MzU2NTYsNzg5OTYxMjI2LDU2NDg5NjgyOCw1NjQ4OTY4MjgsLT
-MwMDE3MzMzNSwtMTM2OTMwMzcwNF19
+eyJoaXN0b3J5IjpbMTM0MDMzNzQ4MywtMjAyMjQxODk4NywxOT
+A2MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDcz
+NiwtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OS
+wxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLTgwOTU3MTk2MywzNzU5
+NzY0NjgsMTQxNTAzNTY1Niw3ODk5NjEyMjYsNTY0ODk2ODI4LD
+U2NDg5NjgyOCwtMzAwMTczMzM1LC0xMzY5MzAzNzA0XX0=
 -->
