@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado à direita. Vamos colocar o nosso código em um ambiente de programação Python mais, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
+Copie e cole este código [neste editor Python online](https://trinket.io/) e, em seguida, clique no botão play para ver o resultado à direita. Vamos colocar o nosso código [neste ambiente de programação Python] mas, antes de tudo, delete o conteúdo de uma das duas abas disponibilizadas (Main.py e Shape.py) e, em seu lugar, copie e cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,7 +94,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM2OTMyMCwxOTA2MzAzMzQyLC0zMT
+eyJoaXN0b3J5IjpbMTA4Mzc2MTExNSwxOTA2MzAzMzQyLC0zMT
 QwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2
 NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OSwxNTg4MDUzMzU3LC
 0xMzk4NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAz
