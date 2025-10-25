@@ -67,18 +67,18 @@ Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em 
 
     class Carro: (isso define a classe Carro)
 	    def __init__(self, cor, marca, modelo): (isso inicia - como se trata de um início, a função que faz isso chama-se init com dois underlines antes e depois do seu nome - a “produção” do carro a partir da definição dos parâmetros escolhidos, onde self representa o carro "a ser fabricado” – veremos isso já já)
-	    self.minha_cor = cor (
+	    self.minha_cor = cor (pense assim: c
 	    self.minha_marca = marca
 	    self.meu_modelo = modelo
     
 	    def andar(self):
 		    return “Eu estou ‘andando’ para frente!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkyMTcwNTQsLTM4NjAwMjIxNSwtMT
-Y0ODAwODk0MiwtMTk3MjQ4MTY1NiwtMjEyMTc3MjkzNyw0NTky
-Mzc4MDUsLTk0NDc2NTg5OCwzMzMxNDcyNDEsLTE1ODQ5NjUyOS
-wtMjgyMjg0Mzk3LC0yMDIyNDE4OTg3LDE5MDYzMDMzNDIsLTMx
-NDA3NTcxOCw4OTM3MzIxNDQsODQ0NDk0NzM2LC0xNjQwMDY5ND
-Y1LC0xMjEyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcs
-LTEzOTg2MTQyMF19
+eyJoaXN0b3J5IjpbNzI0MTIzNzAxLC0xMjY5MjE3MDU0LC0zOD
+YwMDIyMTUsLTE2NDgwMDg5NDIsLTE5NzI0ODE2NTYsLTIxMjE3
+NzI5MzcsNDU5MjM3ODA1LC05NDQ3NjU4OTgsMzMzMTQ3MjQxLC
+0xNTg0OTY1MjksLTI4MjI4NDM5NywtMjAyMjQxODk4NywxOTA2
+MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDczNi
+wtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OSwx
+NTg4MDUzMzU3XX0=
 -->
