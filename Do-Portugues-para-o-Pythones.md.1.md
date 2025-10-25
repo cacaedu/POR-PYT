@@ -39,7 +39,7 @@ Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
-Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Criamos uma função para ver como ela funciona, mas, quando a acessamos diretamente de um objeto, como em ``carro.acessar()``, onde essa função está, no objeto carro ou em algum outro "lugar". A resposta é: você acessa funções e propriedades de um objeto, mas elas estão em algo chamado ``classe``. Aí vem a pergunta: o que é uma classe e como esse acesso através do objeto ocorre? Ou seja, como algo é acessado de algum "lugar" através de outro - acesso das funções e propriedades que estão naA classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
+Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Criamos uma função para ver como ela funciona, mas, quando a acessamos diretamente de um objeto, como em ``carro.acessar()``, onde essa função está, no objeto carro ou em algum outro "lugar". A resposta é: você acessa funções e propriedades de um objeto, mas elas estão em algo chamado ``classe``. Aí vem a pergunta: o que é uma classe e como esse acesso através do objeto ocorre? Ou seja, como algo é acessado de algum "lugar" através de outro - acesso das funções e propriedades que estão na classe, mas que são acessadas através de um objeto? Para entender isso, precisamos entender duas coisas: o que é uma classe e como ela se relaciona com o objeto criado a partir dela. A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
 ## Definição das características (propriedades) e funções de um carro
 
@@ -94,11 +94,11 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTExNTY2MCwtOTQ0NzY1ODk4LDMzMz
-E0NzI0MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5
-ODcsMTkwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4ND
-Q0OTQ3MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgxMTksLTEwMTk3
-MjcxODksMTU4ODA1MzM1NywtMTM5ODYxNDIwLC04MDk1NzE5Nj
-MsMzc1OTc2NDY4LDE0MTUwMzU2NTYsNzg5OTYxMjI2LDU2NDg5
-NjgyOF19
+eyJoaXN0b3J5IjpbNzMzMjE4MjE0LC05NDQ3NjU4OTgsMzMzMT
+Q3MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5NywtMjAyMjQxODk4
+NywxOTA2MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0ND
+Q5NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcy
+NzE4OSwxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLTgwOTU3MTk2My
+wzNzU5NzY0NjgsMTQxNTAzNTY1Niw3ODk5NjEyMjYsNTY0ODk2
+ODI4XX0=
 -->
