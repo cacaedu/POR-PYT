@@ -43,17 +43,14 @@ Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. M
 
 ## Definição das características (propriedades) e ações (funções) de um carro em sua fábrica (classe)
 
-Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:
+Primeiro, vamos escrever em **Português** para, depois, passarmos para o **Pythonês**:
 
 Classe Carro --> o modelo com as instruções de “fabricação”.
-1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo.
+1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo. Parâmetros são variáveis
 
 2. Defina uma função que retorne uma frase que dê a ideia do movimento acelerado do carro para frente.
 
-  
-  
-
-Passemos para o Pythonês com suas regras sintáticas:
+ Passemos para o Pythonês com suas regras sintáticas:
 
 class Carro:
 
@@ -94,7 +91,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzE3ODExLC0xOTcyNDgxNjU2LC0yMT
+eyJoaXN0b3J5IjpbNzY3NDA3MTczLC0xOTcyNDgxNjU2LC0yMT
 IxNzcyOTM3LDQ1OTIzNzgwNSwtOTQ0NzY1ODk4LDMzMzE0NzI0
 MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5ODcsMT
 kwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3
