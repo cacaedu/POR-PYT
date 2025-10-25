@@ -48,7 +48,7 @@ Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:
 Classe Carro --> o modelo com as instruções de “fabricação”.
 1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo.
 
-2. Defina uma função para simular o movimento do carro para frente (“andar”)
+2. Defina uma função que retorne uma frase que dê a ideia do movimento acelerado do carro para frente.
 
   
   
@@ -94,11 +94,11 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI0ODE2NTYsLTIxMjE3NzI5MzcsND
-U5MjM3ODA1LC05NDQ3NjU4OTgsMzMzMTQ3MjQxLC0xNTg0OTY1
-MjksLTI4MjI4NDM5NywtMjAyMjQxODk4NywxOTA2MzAzMzQyLC
-0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2
-OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNzE4OSwxNTg4MDUzMz
-U3LC0xMzk4NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQx
-NTAzNTY1Nl19
+eyJoaXN0b3J5IjpbOTQ4MzE3ODExLC0xOTcyNDgxNjU2LC0yMT
+IxNzcyOTM3LDQ1OTIzNzgwNSwtOTQ0NzY1ODk4LDMzMzE0NzI0
+MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5ODcsMT
+kwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3
+MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgxMTksLTEwMTk3MjcxOD
+ksMTU4ODA1MzM1NywtMTM5ODYxNDIwLC04MDk1NzE5NjMsMzc1
+OTc2NDY4XX0=
 -->
