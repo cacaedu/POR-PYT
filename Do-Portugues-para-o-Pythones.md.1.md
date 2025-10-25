@@ -39,7 +39,7 @@ Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
-Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas ou determinadas? Onde foi escrito esse retorno "Estou acelerando agora"? Em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
+Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Onde foi escrito esse retorno "Estou acelerando agora"? Em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
 ## Definição das características (propriedades) e funções de um carro
 
@@ -94,11 +94,11 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMTQ3MjQxLC0xNTg0OTY1MjksLTI4Mj
-I4NDM5NywtMjAyMjQxODk4NywxOTA2MzAzMzQyLC0zMTQwNzU3
-MTgsODkzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2NSwtMT
-IxMjMzODExOSwtMTAxOTcyNzE4OSwxNTg4MDUzMzU3LC0xMzk4
-NjE0MjAsLTgwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAzNTY1Ni
-w3ODk5NjEyMjYsNTY0ODk2ODI4LDU2NDg5NjgyOCwtMzAwMTcz
-MzM1XX0=
+eyJoaXN0b3J5IjpbLTk0NDc2NTg5OCwzMzMxNDcyNDEsLTE1OD
+Q5NjUyOSwtMjgyMjg0Mzk3LC0yMDIyNDE4OTg3LDE5MDYzMDMz
+NDIsLTMxNDA3NTcxOCw4OTM3MzIxNDQsODQ0NDk0NzM2LC0xNj
+QwMDY5NDY1LC0xMjEyMzM4MTE5LC0xMDE5NzI3MTg5LDE1ODgw
+NTMzNTcsLTEzOTg2MTQyMCwtODA5NTcxOTYzLDM3NTk3NjQ2OC
+wxNDE1MDM1NjU2LDc4OTk2MTIyNiw1NjQ4OTY4MjgsNTY0ODk2
+ODI4XX0=
 -->
