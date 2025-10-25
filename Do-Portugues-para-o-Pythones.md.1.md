@@ -46,7 +46,7 @@ Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. M
 Primeiro, vamos escrever em **Português** para, depois, passarmos para o **Pythonês**:
 
 Classe Carro --> o modelo com as instruções de “fabricação”.
-1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo. Parâmetros são variáveis
+1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo. Parâmetros são variáveis e argumentos são os seus valores. Exemplo: x (parâmetro) = 10 (argumento).
 
 2. Defina uma função que retorne uma frase que dê a ideia do movimento acelerado do carro para frente.
 
@@ -91,7 +91,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NDA3MTczLC0xOTcyNDgxNjU2LC0yMT
+eyJoaXN0b3J5IjpbMjA0MTM0MTEwLC0xOTcyNDgxNjU2LC0yMT
 IxNzcyOTM3LDQ1OTIzNzgwNSwtOTQ0NzY1ODk4LDMzMzE0NzI0
 MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5ODcsMT
 kwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3
