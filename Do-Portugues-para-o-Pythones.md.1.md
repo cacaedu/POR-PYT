@@ -66,7 +66,7 @@ Classe Carro --> o modelo com as instruções de “fabricação”.
 Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em **Português**):
 
     class Carro: (isso define a classe Carro)
-	    def __init__(self, cor, marca, modelo): (isso inicia - como se trata de um início,  a “produção” do carro a partir da definição dos parâmetros escolhidos, onde self representa o carro a ser “fabricado” – veremos isso já já)
+	    def __init__(self, cor, marca, modelo): (isso inicia - como se trata de um início, a função que faz isso chama-se init com dois underlines antes e depois- a “produção” do carro a partir da definição dos parâmetros escolhidos, onde self representa o carro a ser “fabricado” – veremos isso já já)
 	    self.minha_cor = cor
 	    self.minha_marca = marca
 	    self.meu_modelo = modelo
@@ -74,7 +74,7 @@ Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em 
 	    def andar(self):
 		    return “Eu estou ‘andando’ para frente!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzU2MDk0NSwtMzg2MDAyMjE1LC0xNj
+eyJoaXN0b3J5IjpbMTk5MDEyNzIyNSwtMzg2MDAyMjE1LC0xNj
 Q4MDA4OTQyLC0xOTcyNDgxNjU2LC0yMTIxNzcyOTM3LDQ1OTIz
 NzgwNSwtOTQ0NzY1ODk4LDMzMzE0NzI0MSwtMTU4NDk2NTI5LC
 0yODIyODQzOTcsLTIwMjI0MTg5ODcsMTkwNjMwMzM0MiwtMzE0
