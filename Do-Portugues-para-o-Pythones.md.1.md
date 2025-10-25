@@ -53,31 +53,20 @@ Classe Carro --> o modelo com as instruções de “fabricação”.
  Passemos para o **Pythonês** com suas regras sintáticas:
 
     class Carro:
- 
 	    def __init__(self, cor, marca, modelo):
-	    self.minha_cor = cor
-	    self.minha_marca = marca
-	    self.meu_modelo = modelo
+		    self.minha_cor = cor
+		    self.minha_marca = marca
+		    self.meu_modelo = modelo
     
 	    def acelerar(self):
-		    return “Eu estou acelerando!”
+		    return “Eu estou acelerando!"
 
-  
-  
-
-Vamos, agora, comparar as duas instruções (Pythonês com explicações em Português):
-
-  
-  
+Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em **Português**):
 
 class Carro: (isso define a classe Carro)
-
 def __init__(self, cor, marca, modelo): (isso começa a “produção” do carro a partir da definição dos parâmetros escolhidos, onde self representa o carro a ser “fabricado” – veremos isso já já)
-
 self.minha_cor = cor
-
 self.minha_marca = marca
-
 self.meu_modelo = modelo
 
 def andar(self):
@@ -87,7 +76,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjIxNTUxNywtMTk3MjQ4MTY1NiwtMj
+eyJoaXN0b3J5IjpbMjAzNjU1NTgyNiwtMTk3MjQ4MTY1NiwtMj
 EyMTc3MjkzNyw0NTkyMzc4MDUsLTk0NDc2NTg5OCwzMzMxNDcy
 NDEsLTE1ODQ5NjUyOSwtMjgyMjg0Mzk3LC0yMDIyNDE4OTg3LD
 E5MDYzMDMzNDIsLTMxNDA3NTcxOCw4OTM3MzIxNDQsODQ0NDk0
