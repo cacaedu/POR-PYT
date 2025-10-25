@@ -52,19 +52,15 @@ Classe Carro --> o modelo com as instruções de “fabricação”.
 
  Passemos para o **Pythonês** com suas regras sintáticas:
 
-class Carro:
-
-def __init__(self, cor, marca, modelo):
-
-self.minha_cor = cor
-
-self.minha_marca = marca
-
-self.meu_modelo = modelo
-
-def acelerar(self):
-
-return “Eu estou acelerando!”
+    class Carro:
+ 
+	    def __init__(self, cor, marca, modelo):
+	    self.minha_cor = cor
+	    self.minha_marca = marca
+	    self.meu_modelo = modelo
+    
+	    def acelerar(self):
+		    return “Eu estou acelerando!”
 
   
   
@@ -91,11 +87,11 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc3Mjg2NDksLTE5NzI0ODE2NTYsLT
-IxMjE3NzI5MzcsNDU5MjM3ODA1LC05NDQ3NjU4OTgsMzMzMTQ3
-MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5NywtMjAyMjQxODk4Ny
-wxOTA2MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5
-NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNz
-E4OSwxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLTgwOTU3MTk2Mywz
-NzU5NzY0NjhdfQ==
+eyJoaXN0b3J5IjpbMTk3MjIxNTUxNywtMTk3MjQ4MTY1NiwtMj
+EyMTc3MjkzNyw0NTkyMzc4MDUsLTk0NDc2NTg5OCwzMzMxNDcy
+NDEsLTE1ODQ5NjUyOSwtMjgyMjg0Mzk3LC0yMDIyNDE4OTg3LD
+E5MDYzMDMzNDIsLTMxNDA3NTcxOCw4OTM3MzIxNDQsODQ0NDk0
+NzM2LC0xNjQwMDY5NDY1LC0xMjEyMzM4MTE5LC0xMDE5NzI3MT
+g5LDE1ODgwNTMzNTcsLTEzOTg2MTQyMCwtODA5NTcxOTYzLDM3
+NTk3NjQ2OF19
 -->
