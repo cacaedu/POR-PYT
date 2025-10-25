@@ -50,7 +50,7 @@ Primeiro, vamos escrever em **Português** para, depois, passarmos para o **Pyth
 Classe Carro --> o modelo com as instruções de “fabricação”.
 1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo. Parâmetros são variáveis e argumentos são os seus valores. Exemplo: x (parâmetro) = 10 (argumento).
 
-2. Defina uma função que retorne uma frase que dê a ideia do movimento acelerado do carro.
+2. Defina uma função que retorne uma frase que dê a ideia do movimento do carro acelerando.
 
  Passemos para o **Pythonês** com suas regras sintáticas:
 
@@ -74,7 +74,7 @@ Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em 
 	    def andar(self):
 		    return “Eu estou ‘andando’ para frente!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDY3ODM2MSwtMTY0ODAwODk0MiwtMT
+eyJoaXN0b3J5IjpbLTM4NjAwMjIxNSwtMTY0ODAwODk0MiwtMT
 k3MjQ4MTY1NiwtMjEyMTc3MjkzNyw0NTkyMzc4MDUsLTk0NDc2
 NTg5OCwzMzMxNDcyNDEsLTE1ODQ5NjUyOSwtMjgyMjg0Mzk3LC
 0yMDIyNDE4OTg3LDE5MDYzMDMzNDIsLTMxNDA3NTcxOCw4OTM3
