@@ -45,6 +45,7 @@ Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. M
 
 Primeiro, vamos escrever em **Português** para, depois, passarmos para o **Pythonês**:
 
+**Português**
 Classe Carro --> o modelo com as instruções de “fabricação”.
 1.  Inicie a produção com os parâmetros (não argumentos) cor, marca e modelo. Parâmetros são variáveis e argumentos são os seus valores. Exemplo: x (parâmetro) = 10 (argumento).
 
@@ -72,11 +73,11 @@ Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em 
 	    def andar(self):
 		    return “Eu estou ‘andando’ para frente!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgwMDg5NDIsLTE5NzI0ODE2NTYsLT
-IxMjE3NzI5MzcsNDU5MjM3ODA1LC05NDQ3NjU4OTgsMzMzMTQ3
-MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5NywtMjAyMjQxODk4Ny
-wxOTA2MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5
-NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNz
-E4OSwxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLTgwOTU3MTk2Mywz
-NzU5NzY0NjhdfQ==
+eyJoaXN0b3J5IjpbMTU3NDIwOTcyNywtMTY0ODAwODk0MiwtMT
+k3MjQ4MTY1NiwtMjEyMTc3MjkzNyw0NTkyMzc4MDUsLTk0NDc2
+NTg5OCwzMzMxNDcyNDEsLTE1ODQ5NjUyOSwtMjgyMjg0Mzk3LC
+0yMDIyNDE4OTg3LDE5MDYzMDMzNDIsLTMxNDA3NTcxOCw4OTM3
+MzIxNDQsODQ0NDk0NzM2LC0xNjQwMDY5NDY1LC0xMjEyMzM4MT
+E5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcsLTEzOTg2MTQyMCwt
+ODA5NTcxOTYzXX0=
 -->
