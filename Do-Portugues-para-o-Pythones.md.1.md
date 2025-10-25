@@ -35,7 +35,7 @@ Depois dos parênteses, devemos colocar dois pontos para mostrar ao Python que, 
 
 A palavra-chave ```return``` é a responsável por retornar/mostrar o que a função tem de retornar quando ela for chamada. Para chamar uma função em Pythonês usa-se o nome da função seguido dos parênteses: acelerar().
 
-Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="noopener noreferrer">neste ambiente de programação Python</a>mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas `(Main.py e Shape.py)` e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado nesse espaço à direita do editor e que é conhecido por console.
+Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="noopener noreferrer">neste ambiente de programação Python</a> mas, antes de tudo, acesse-o e delete o conteúdo de uma das duas abas disponibilizadas `(Main.py e Shape.py)` e, em seu lugar, cole o código da função com a sua chamada. Não é necessário fazer login para, apenas, testar códigos Python nesse site (Trinket). O texto "Estou acelerando agora", sem as aspas, deve aparecer como resultado nesse espaço à direita do editor e que é conhecido por console.
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
@@ -94,11 +94,11 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzAzMDUsNDU5MjM3ODA1LC05NDQ3Nj
-U4OTgsMzMzMTQ3MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5Nywt
-MjAyMjQxODk4NywxOTA2MzAzMzQyLC0zMTQwNzU3MTgsODkzNz
-MyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMzODEx
-OSwtMTAxOTcyNzE4OSwxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLT
-gwOTU3MTk2MywzNzU5NzY0NjgsMTQxNTAzNTY1Niw3ODk5NjEy
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTIzNzkwNjI3MSw0NTkyMzc4MDUsLTk0ND
+c2NTg5OCwzMzMxNDcyNDEsLTE1ODQ5NjUyOSwtMjgyMjg0Mzk3
+LC0yMDIyNDE4OTg3LDE5MDYzMDMzNDIsLTMxNDA3NTcxOCw4OT
+M3MzIxNDQsODQ0NDk0NzM2LC0xNjQwMDY5NDY1LC0xMjEyMzM4
+MTE5LC0xMDE5NzI3MTg5LDE1ODgwNTMzNTcsLTEzOTg2MTQyMC
+wtODA5NTcxOTYzLDM3NTk3NjQ2OCwxNDE1MDM1NjU2LDc4OTk2
+MTIyNl19
 -->
