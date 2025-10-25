@@ -41,7 +41,7 @@ Você criou a sua primeira função Python e a chamou, dentro da função print,
 
 Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Criamos uma função para ver como ela funciona, mas, quando a acessamos diretamente de um objeto, como em ``carro.acessar()``, onde essa função está, no objeto carro ou em algum outro "lugar". A resposta é: você acessa funções e propriedades de um objeto, mas elas estão em algo chamado ``classe``. Aí vem a pergunta: o que é uma classe e como esse acesso através do objeto ocorre? Ou seja, como algo é acessado de algum "lugar" através de outro - acesso das funções e propriedades que estão na classe, mas que são acessadas através de um objeto? Para entender isso, precisamos entender duas coisas: o que é uma classe e como ela se relaciona com o objeto criado a partir dela. Sim, objetos são criados a partir de classes que os definem, portanto são chamados de `instâncias de uma classe.` A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classes têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Então, a frase "Sim, objetos são criados a partir de classes que os definem, portanto são chamados de `instâncias de uma classe.`" fica mais fácil de entender quando a traduzimos para "Sim, carros são criados a partir de fábricas que os definem (modelo, cor, o quanto aceleram, como brecam ou dão ré etc)  portanto são chamados de instâncias de uma fábrica (de carros, nesse caso). Faz mais sentido agora? Instâncias são objetos que são "criados" com as características de quem os "criou", definiu. Um tribunal de justiça regional é uma instância do poder Judiciário, pois mantém as regras  e normas que esse poder cria. Então, ele é um "objeto" que representa essa classe, mantendo a mesma relação que há entre carro e fábrica. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria "carros", ou melhor, objetos em Python?
 
-## Definição das características (propriedades) e ações (funções de um carro
+## Definição das características (propriedades) e ações (funções) de um carro
 
 Primeiro, vamos escrever em Português para, depois, passarmos para o Pythonês:
 
@@ -94,7 +94,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA3ODM3MTgsNDU5MjM3ODA1LC05ND
+eyJoaXN0b3J5IjpbLTIxMjE3NzI5MzcsNDU5MjM3ODA1LC05ND
 Q3NjU4OTgsMzMzMTQ3MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5
 NywtMjAyMjQxODk4NywxOTA2MzAzMzQyLC0zMTQwNzU3MTgsOD
 kzNzMyMTQ0LDg0NDQ5NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMz
