@@ -69,17 +69,14 @@ Vamos, agora, comparar as duas instruções (**Pythonês** com explicações em 
 	    self.minha_marca = marca
 	    self.meu_modelo = modelo
     
-    def andar(self):
-    return “Eu estou ‘andando’ para frente!”
-
-
-
+	    def andar(self):
+		    return “Eu estou ‘andando’ para frente!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTI0NzY0LC0xOTcyNDgxNjU2LC0yMT
-IxNzcyOTM3LDQ1OTIzNzgwNSwtOTQ0NzY1ODk4LDMzMzE0NzI0
-MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5ODcsMT
-kwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4NDQ0OTQ3
-MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgxMTksLTEwMTk3MjcxOD
-ksMTU4ODA1MzM1NywtMTM5ODYxNDIwLC04MDk1NzE5NjMsMzc1
-OTc2NDY4XX0=
+eyJoaXN0b3J5IjpbLTE2NDgwMDg5NDIsLTE5NzI0ODE2NTYsLT
+IxMjE3NzI5MzcsNDU5MjM3ODA1LC05NDQ3NjU4OTgsMzMzMTQ3
+MjQxLC0xNTg0OTY1MjksLTI4MjI4NDM5NywtMjAyMjQxODk4Ny
+wxOTA2MzAzMzQyLC0zMTQwNzU3MTgsODkzNzMyMTQ0LDg0NDQ5
+NDczNiwtMTY0MDA2OTQ2NSwtMTIxMjMzODExOSwtMTAxOTcyNz
+E4OSwxNTg4MDUzMzU3LC0xMzk4NjE0MjAsLTgwOTU3MTk2Mywz
+NzU5NzY0NjhdfQ==
 -->
