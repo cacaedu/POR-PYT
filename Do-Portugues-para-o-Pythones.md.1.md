@@ -39,7 +39,7 @@ Vamos colocar o nosso código <a href="https://trinket.io" target="_blank" rel="
 
 Você criou a sua primeira função Python e a chamou, dentro da função print, para ver o que ela retorna (nos mostra). Parabéns! Isso é incrível! 
 
-Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Criamos uma função para ver como ela funciona, mas, quando a acessamos diretamente de um objeto, como em ``caEm algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
+Vamos nos aprofundar nisso. Um objeto tem funções e propriedades como vimos. Mas, onde elas estão? Onde elas foram escritas, determinadas, criadas? Criamos uma função para ver como ela funciona, mas, quando a acessamos diretamente de um objeto, como em ``carro.acessar()``, onde essa função está, no objeto carro ou em algum outro "lugar". A resposta é: você acessa em algo chamado classe. Aí vem a pergunta: o que é uma classe? A classe é a estrutura, o molde, o modelo que cria as funções e as propriedades que serão acessadas pelo objeto criado a partir dela. Confuso? Criamos objetos a partir de classes, assim como se criam carros a partir de fábricas. As fábricas têm os modelos, as regras a serem seguidas para fabricar os carros, assim como as classe têm as funções e as propriedades necessárias para criar objetos, como o nosso carro. Vamos criar a nossa “fábrica”, ou melhor, a nossa classe que cria carros em Python.
 
 ## Definição das características (propriedades) e funções de um carro
 
@@ -94,7 +94,7 @@ return “Eu estou ‘andando’ para frente!”
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTczNTAyMSwtOTQ0NzY1ODk4LDMzMz
+eyJoaXN0b3J5IjpbMTk0OTgwMzA2OCwtOTQ0NzY1ODk4LDMzMz
 E0NzI0MSwtMTU4NDk2NTI5LC0yODIyODQzOTcsLTIwMjI0MTg5
 ODcsMTkwNjMwMzM0MiwtMzE0MDc1NzE4LDg5MzczMjE0NCw4ND
 Q0OTQ3MzYsLTE2NDAwNjk0NjUsLTEyMTIzMzgxMTksLTEwMTk3
